@@ -19,7 +19,7 @@ class Calculadora : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_calculadora)
         display = findViewById(R.id.input)
-
+ 
 
     }
 
